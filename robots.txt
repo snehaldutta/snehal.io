@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/snehaldutta/snehal.io/sitemap.xml
